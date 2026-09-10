@@ -1,10 +1,10 @@
 ---
-title: Breakout Session: DropKick
+title: 'Breakout Session: DropKick'
 transcript_by: Localhost Research
 date: 2026-08-28
 tags:
-	- quantum
-	- lifeboat
+  - quantum
+  - lifeboat
 speakers:
   - conduition
 ---
@@ -61,4 +61,3 @@ speakers:
 - **Lifeboat is not vulnerable** to censorship-based theft: the index lets you show you were the *first* valid commitment.
 - **DropKick offers no such protection:** a miner seeing your reveal in the mempool could censor/reorg it and insert their own commitment in the meantime.
 - DropKick therefore relies on **game-theoretic arguments**: each reveal must carry a fee proportional to the input value — roughly **fee > (input value) / (blocks you must wait)** — to incentivize miners to include your transaction rather than attack it.
-

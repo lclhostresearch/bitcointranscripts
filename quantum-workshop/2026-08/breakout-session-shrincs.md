@@ -1,10 +1,10 @@
 ---
-title: Breakout Session: SHRINCS
+title: 'Breakout Session: SHRINCS'
 transcript_by: Localhost Research
 date: 2026-08-28
 tags:
-	- quantum
-	- cryptography
+  - quantum
+  - cryptography
 speakers:
   - Jonas Nick
 ---

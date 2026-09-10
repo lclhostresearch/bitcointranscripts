@@ -3,10 +3,10 @@ title: Output Type Design Considerations
 transcript_by: Mike Schmidt
 date: 2026-08-28
 tags:
-	- quantum
-	- output-script-design
-	- tripwire
-	- signature-aggregation
+  - quantum
+  - output-script-design
+  - tripwire
+  - signature-aggregation
 speakers:
   - Pieter Wuille, conduition
 ---

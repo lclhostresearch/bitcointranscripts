@@ -3,8 +3,8 @@ title: State of Post-Quantum Cryptography
 transcript_by: Localhost Research
 date: 2026-08-28
 tags:
-	- quantum
-	- cryptography
+  - quantum
+  - cryptography
 speakers:
   - Dan Boneh
 ---

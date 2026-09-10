@@ -3,9 +3,9 @@ title: Institutional Considerations for Post-Quantum Bitcoin
 transcript_by: Localhost Research
 date: 2026-08-28
 tags:
-	- quantum
-	- cryptography
-	- custody
+  - quantum
+  - cryptography
+  - custody
 speakers:
   - Yehuda Lindell
 ---

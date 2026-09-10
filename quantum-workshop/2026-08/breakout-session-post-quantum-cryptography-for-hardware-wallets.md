@@ -1,10 +1,10 @@
 ---
-title: Breakout Session: Post Quantum Cryptography for Hardware Wallets
+title: 'Breakout Session: Post Quantum Cryptography for Hardware Wallets'
 transcript_by: Localhost Research
 date: 2026-08-28
 tags:
-	- quantum
-	- hardware-wallet
+  - quantum
+  - hardware-wallet
 speakers:
   - Charles Guillemet
 ---

@@ -3,9 +3,9 @@ title: The Ethereum Perspective on Post-Quantum Cryptography
 transcript_by: Localhost Research
 date: 2026-08-28
 tags:
-	- quantum
-	- ethereum
-	- cryptography
+  - quantum
+  - ethereum
+  - cryptography
 speakers:
   - Antonio Sanso
 ---
